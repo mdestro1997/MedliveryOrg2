@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.375ef2ea.chunk.css",
+    "main.js": "/static/js/main.d18ea186.chunk.js",
+    "main.js.map": "/static/js/main.d18ea186.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f10a8730.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f10a8730.js.map",
+    "static/js/2.8d662d1d.chunk.js": "/static/js/2.8d662d1d.chunk.js",
+    "static/js/2.8d662d1d.chunk.js.map": "/static/js/2.8d662d1d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3c5123d3d7f44152fe579a9b923ff962.js": "/precache-manifest.3c5123d3d7f44152fe579a9b923ff962.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.375ef2ea.chunk.css.map": "/static/css/main.375ef2ea.chunk.css.map",
+    "static/js/2.8d662d1d.chunk.js.LICENSE.txt": "/static/js/2.8d662d1d.chunk.js.LICENSE.txt",
+    "static/media/Abi.jpg": "/static/media/Abi.a56ce604.jpg",
+    "static/media/Cancer.jpg": "/static/media/Cancer.5f95a1da.jpg",
+    "static/media/Dermatology.jpg": "/static/media/Dermatology.d90bfda3.jpg",
+    "static/media/Guydepression.jpg": "/static/media/Guydepression.8ed4da3c.jpg",
+    "static/media/Mr&MrsMmopiemang.jpg": "/static/media/Mr&MrsMmopiemang.30bb1943.jpg",
+    "static/media/Sickness.jpg": "/static/media/Sickness.e1d55ed4.jpg",
+    "static/media/Therapy.jpg": "/static/media/Therapy.f342f193.jpg",
+    "static/media/covid.jpg": "/static/media/covid.6384d035.jpg",
+    "static/media/destro.jpg": "/static/media/destro.38d71ffe.jpg",
+    "static/media/mmopiemang.jpg": "/static/media/mmopiemang.bad0b4b0.jpg",
+    "static/media/onlineConsultation.jpg": "/static/media/onlineConsultation.f774d332.jpg",
+    "static/media/pexels-andrea-piacquadio-3769021.jpg": "/static/media/pexels-andrea-piacquadio-3769021.bbe33ae6.jpg",
+    "static/media/pexels-hussein-altameemi-1678821.jpg": "/static/media/pexels-hussein-altameemi-1678821.e919f219.jpg",
+    "static/media/pexels-pixabay-35539.jpg": "/static/media/pexels-pixabay-35539.be8582b3.jpg",
+    "static/media/App.css": "/static/media/syringeAndPills.fec0bf3c.jpg",
+    "static/media/pexels-tubarones-photography-2764976.jpg": "/static/media/pexels-tubarones-photography-2764976.43ae82ff.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f10a8730.js",
+    "static/js/2.8d662d1d.chunk.js",
+    "static/css/main.375ef2ea.chunk.css",
+    "static/js/main.d18ea186.chunk.js"
+  ]
+}
